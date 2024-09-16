@@ -24,16 +24,16 @@ Whether it’s building the backend, crafting a seamless user interface, or auto
 ## 🌱 What I'm Working On
 Here’s a sneak peek into some of the exciting projects I’ve been working on:
 
-**🎨 ChromaGen** – Coloring the world, one pixel at a time
+**🎨 ColorizeAI** – Coloring the world, one pixel at a time
 Using GAN and CNN architectures, I created an AI-powered model that brings black-and-white images to life by colorizing them automatically. It’s like giving history a fresh coat of paint! I trained the model on over 50,000 images and reduced the loss from 0.7 to 0.03 in 50 epochs. It’s been an incredible journey of pushing the boundaries of AI.
 
 **🌾 AgriConnect** – Empowering farmers through technology
 This e-commerce platform bridges the gap between local farmers and consumers. AgriConnect eliminates middlemen, helping 50+ farmers reach 300+ consumers directly. I developed features like real-time catalog updates, secure payment processing via Stripe, and location-based filtering to support local economies.
 
-**🗣️ GlobalVoices** – Breaking language barriers, one word at a time
+**🗣️ PolySpeech** – Breaking language barriers, one word at a time
 Imagine a world where 72 languages can be transcribed instantly. That’s what I aimed for with GlobalVoices. Using DeepSpeech and JavaScript, I built a speech-to-text app with a 68% accuracy rate. It’s my take on enhancing global communication through technology.
 
-**📦 StockSmart** – Intelligent inventory management
+**📦 InventoryPro** – Intelligent inventory management
 I created a role-based website that makes inventory management smarter, faster, and more secure. With three user roles (Admin, Special, User) and encrypted access, StockSmart has reduced unauthorized access incidents by 40%. Plus, its sleek dashboard ensures businesses can track top-selling products and manage stock like pros.
 
 ## 🔍 Currently Exploring
